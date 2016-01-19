@@ -1,3 +1,6 @@
 You can create a file directly on github by ading new file and commit this new file.
 Add a message in the 'commit new file' with a description of the commit.
 
+Before this file was created, the remote 'reflections' repo was identical to the local 'reflections' repo. In order to have identical copies, we need to use 'pull' to get the latest files in the local repo.
+
+git pull origin master
